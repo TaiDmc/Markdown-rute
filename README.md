@@ -7,7 +7,7 @@
 - [Encabezados](#encabezados)
 - [Enlaces](#enlaces)
 - [Imagenes](#imagenes)
-- [Divisiones](#divisiones)
+- [Divisiones en _Markdown_](#divisiones)
 - [Listas](#listas)
 - [Citas](#citas)
 - [Tablas](#tablas)
@@ -132,7 +132,8 @@ _Aplicando cursiva_
 
 ## Divisiones
 
-Estas las haremos en todo nuestro documento _Markdown_, bueno esto se hace con `---`
+Estas las haremos en todo nuestro documento _Markdown_, bueno esto se hace con `---`, `***`, `___`.
+(Cualquier manera funciona)
 
 [⤴](#indice)
 
